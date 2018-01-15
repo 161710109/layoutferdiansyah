@@ -1,0 +1,1 @@
+<hr>Copyright 2018 Ferdiansyah Akbar Fauzi</hr>
